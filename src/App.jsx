@@ -15,14 +15,14 @@ const App = () => {
   return (
     <div className="flex flex-col w-[100%] box-border bg-[#FFDD55]">
       <div className="h-screen">
-        <div className="h-[10%] flex justify-between items-center bg-black p-5 rounded-b-xl">
+        <div className="h-[10%] flex justify-between items-center  p-5 rounded-b-xl">
           <div className="relative h-10 w-10">
             <div className="absolute top-0 left-0 z-10 bg-[#FFDD55] border border-black rounded-full h-10 w-10 flex justify-center items-center">
               <div className="font-extrabold text-3xl">R</div>
             </div>
             <div className="absolute top-1 left-1 z-0 bg-white border border-black rounded-full h-10 w-10 flex justify-center items-center"></div>
           </div>
-          <div className="flex text-white text-xl gap-10 max-[640px]:gap-5">
+          <div className="flex font-bold text-xl gap-10 max-[640px]:gap-5">
             <div
               className="cursor-pointer"
               onClick={() =>

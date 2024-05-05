@@ -4,7 +4,7 @@ import Avatar from "../images/Avatar.png";
 const Home = () => {
   return (
     <div className="flex w-full">
-      <div className="flex flex-col justify-center items-center gap-3 w-[45%] max-[640px]:w-full">
+      <div className="flex flex-col justify-center items-center gap-3 w-[45%] max-[767px]:w-full">
         <div>
           <div className="font-extrabold text-[3rem] text-[#18191F]">
             Hello,
