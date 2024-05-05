@@ -17,7 +17,7 @@ const Home = () => {
           </div>
           <div className="flex gap-5">
             <a
-              href="https://drive.google.com/file/d/142ORvKzTI9CJSnKzu1D1PIX0RvMDIEIo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-naJh0WbFEH1QKjlrrVNJJG2MyjypTof/view?usp=sharing"
               target="_blank"
             >
               {" "}
