@@ -17,7 +17,9 @@ const About = () => {
         ></div>
       </div>
       <div className="w-[70%] h-full flex flex-col lg:px-10 xl:px-10 2xl:px-10 sm:p-2 md:p-2 gap-5">
-        <div className="font-extrabold text-[3rem] text-white">About me</div>
+        <div className="font-extrabold text-[3rem] max-[767px]:text-4xl text-white">
+          About me
+        </div>
         <div className="font-bold text-2xl text-[#FFDD55]">
           ReactJS Developer
         </div>
