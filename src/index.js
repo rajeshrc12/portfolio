@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import { createHashRouter, RouterProvider } from "react-router-dom";
 import Index1 from "./portfolio1/Index1";
-import Index2 from "./components/Index2";
+import Index2 from "./portfolio2/Index2";
 const router = createHashRouter([
   {
     path: "/app",
