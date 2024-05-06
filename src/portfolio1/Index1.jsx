@@ -364,7 +364,7 @@ const Index1 = () => {
               <div className="flex gap-5">
                 {" "}
                 <a
-                  href="https://rajeshrc12.github.io/portfolio/"
+                  href="https://rajeshrc12.github.io/portfolio/new"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
