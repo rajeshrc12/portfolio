@@ -358,7 +358,7 @@ const Index1 = () => {
             <div className="font-extrabold text-[3rem]">02</div>
             <div className="font-extrabold text-3xl">Portfolio</div>
             <div className="text-gray-300 flex flex-col">
-              <div>Simple nice and clean portfolio website</div>
+              <div>Simple, nice and clean portfolio website</div>
             </div>
             <div className="text-white font-bold flex flex-col">
               <div className="flex gap-5">
