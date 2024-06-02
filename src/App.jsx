@@ -295,7 +295,7 @@ const App = () => {
         <div className="p-1 flex justify-center">
           <img src={Banner1} alt="" />
         </div>
-        <div className="flex flex-col gap-5">
+        <div className="flex flex-col gap-5  md:p-3">
           <div className="flex gap-3">
             <div className="text-4xl md:text-[3rem]">About</div>
             <div className="text-4xl font-extrabold md:text-[3rem]">Me</div>
