@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2982c408.css",
-    "main.js": "/portfolio/static/js/main.c0469172.js",
+    "main.css": "/portfolio/static/css/main.d3331046.css",
+    "main.js": "/portfolio/static/js/main.1e33b593.js",
     "static/media/meetphere-banner.png": "/portfolio/static/media/meetphere-banner.ca567f70c7a3b4d7bc7a.png",
     "static/media/learnsphere-banner.png": "/portfolio/static/media/learnsphere-banner.49f1408d8201e9c15a7d.png",
     "static/media/Banner.jpg": "/portfolio/static/media/Banner.4ec93e8cd80456cd2189.jpg",
@@ -9,11 +9,11 @@
     "static/media/whatsapp-clone-banner.png": "/portfolio/static/media/whatsapp-clone-banner.8af4dca3eaf9c2740017.png",
     "static/media/ai-chat-bot-banner.png": "/portfolio/static/media/ai-chat-bot-banner.f550b8b595e8477c2e3c.png",
     "index.html": "/portfolio/index.html",
-    "main.2982c408.css.map": "/portfolio/static/css/main.2982c408.css.map",
-    "main.c0469172.js.map": "/portfolio/static/js/main.c0469172.js.map"
+    "main.d3331046.css.map": "/portfolio/static/css/main.d3331046.css.map",
+    "main.1e33b593.js.map": "/portfolio/static/js/main.1e33b593.js.map"
   },
   "entrypoints": [
-    "static/css/main.2982c408.css",
-    "static/js/main.c0469172.js"
+    "static/css/main.d3331046.css",
+    "static/js/main.1e33b593.js"
   ]
 }
